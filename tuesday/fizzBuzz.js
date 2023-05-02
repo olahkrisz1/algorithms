@@ -33,3 +33,11 @@ console.log(result);
 // i=1, not dividible by both 3 and 5, nor 3, nor 5, so pushing 1 into array. result=[1]
 // i=2, not dividible by both 3 and 5, nor 3, nor 5, so pushing 2 into array. result=[1,2]
 // i=3, not dividible by both 3 and 5, but dividible by 3, so pushing 'fizz' into array. result=[1,2,"Fizz"]
+// ..
+//
+// i=5, not dividible by both 3 and 5, nor 3, but dividible by 5, so pushing "Buzz" into array. result=[1,2,"Fizz",4,"Buzz"]
+// ..
+//i=15, dividible by both 3 and 5, pushing "FizzBuzz" string to array.
+// ..
+// i=136, larger than 135, loop finished.
+// array of 'result' has been printed.
