@@ -9,7 +9,7 @@
 // Pseudocode:
 //1. Declare a variable that starts the sequence with [0,1].
 //2. define a variable with next number in sequence.
-//3. using 'while' loop to generate next number in the sequence by adding the last twon numbers together.
+//3. using 'while' loop to generate next number in the sequence by adding the last two numbers together.
 //4. the loop continues until the next number is greater or equal 1000000.
 // 5. function returns the the array of fibonacci sequence.
 
