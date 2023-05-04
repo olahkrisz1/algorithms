@@ -37,10 +37,10 @@ console.log(output);
 // Diagram:
 
 // input word : 'racecar'
-// i=0, element='r', checkstring= 7-0-1= 'r' => true;
-// i=1, element='a', checkstring= 7-1-1= 'a' => true;
-// i=2, element='c', checkstring= 7-2-1= 'c' => true;
-// i=3; element='e', checkstring= 7-3-1= 'e' => true;
+// i=0, element='r', checkstring= 7-0-1= 'r' => not false, will be true;
+// i=1, element='a', checkstring= 7-1-1= 'a' => not false, will be true;
+// i=2, element='c', checkstring= 7-2-1= 'c' => not false, will be true;
+// i=3; element='e', checkstring= 7-3-1= 'e' => not false, will be true;
 // loop finished due to checkString.length/2
 // returns true;
 // 'true' printed
